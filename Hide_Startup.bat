@@ -1,6 +1,6 @@
 REM Creating a file with code
 (
-echo shutdown /r /t 0
+echo shutdown /r /t 5
 echo set /a num=1
 echo cd C:\Users\%username%\Desktop
 echo cd C:\Users\%username%\OneDrive - Fairfax County Public Schools\Desktop
