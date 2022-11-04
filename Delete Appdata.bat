@@ -1,5 +1,5 @@
 REM Deletes all of the files in the AppData folder in case deleting the %username% folder doesn't work
-cd C:\Users\%USERNAME%\AppData
+cd C:\Users\%username%\AppData
 del Roaming /q
 del Local /q
 del LocalLow /q
