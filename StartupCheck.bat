@@ -1,4 +1,5 @@
 ::This program will inject into startup, and run specified code.
+::Code in startup is different from the injection code.
 ::Files can be hidden, and the option to hide hidden files can be enabled.
 ::I AM NOT RESPONSIBLE FOR MALICIOUS USE OF THIS PROGRAM
 ::Made by Chaos
