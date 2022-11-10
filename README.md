@@ -9,7 +9,7 @@ Anything else
 **WE ARE NOT RESPONSIBLE FOR MALICIOUS USE OF THESE FILES**
 
 # Guide
-Templates/StartupCheck: Prevents duplicate startup cloning - Made by Chaos
-Malicious/Delete_Appdata: Deletes the AppData folder - Made by Markas
-Malicious/Hide_Startup: Hides the startup folder - Made by Markas
+Templates/StartupCheck: Prevents duplicate startup cloning - Made by Chaos  
+Malicious/Delete_Appdata: Deletes the AppData folder - Made by Markas  
+Malicious/Hide_Startup: Hides the startup folder - Made by Markas  
 
