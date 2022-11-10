@@ -1,5 +1,12 @@
 # BatchStuff
 VBS and Batch files, created by commission  
-COMMISSIONS HERE  
-https://forms.gle/gce8Vk9xFcndnCTN6  
+
+COMMISSIONS IN ISSUES  
+
+Format:  
+Detailed Description of File  
+Anything else  
+**WE ARE NOT RESPONSIBLE FOR MALICIOUS USE OF THESE FILES**
+
+  
 
